@@ -1,5 +1,11 @@
 # Network Store : Network Store and tools in Kebumen
 
+- Link : https://networkstore.cahyonomuslimsidiq.com
+- Link figma : https://www.figma.com/design/9dIdvouNWSo3Nmcp4gGwzY/Hero-template?node-id=0-1&t=rxDDxjyjsb6ATiKW-0
+- Link repository-project : https://github.com/sidiqcahyono83/networkstore
+- link backend : https://github.com/sidiqcahyono83/networkstore-backtend
+- link frontend : https://github.com/sidiqcahyono83/networkstore-frontend
+
 ## Link :
 
 - Website : https://networkstore.cahyonomuslimsidiq.com
