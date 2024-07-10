@@ -1,61 +1,78 @@
-# Network Store : Network Store and tools in Kebumen
+# Network Store
 
-- Link : https://networkstore.cahyonomuslimsidiq.com
-- Link figma : https://www.figma.com/design/9dIdvouNWSo3Nmcp4gGwzY/Hero-template?node-id=0-1&t=rxDDxjyjsb6ATiKW-0
-- Link repository-project : https://github.com/sidiqcahyono83/networkstore
-- link backend : https://github.com/sidiqcahyono83/networkstore-backtend
-- link frontend : https://github.com/sidiqcahyono83/networkstore-frontend
+Network Store adalah bisnis yang menyediakan berbagai produk dan layanan terkait jaringan komputer dan internet.
 
-## Link :
+- Project : [Repository-project](https://github.com/sidiqcahyono83/networkstore)
 
-- Website : https://networkstore.cahyonomuslimsidiq.com
-- UI/UX Desain : https://www.figma.com/design/9dIdvouNWSo3Nmcp4gGwzY/Hero-template?node-id=0-1&t=BdiSiEjmadG6oWx8-0
+## Link
 
-## Inspirations :
+- Networkstore website : [Networkstore](https://networkstore.cahyonomuslimsidiq.com)
+- UI/UX Desain : [Figma](https://www.figma.com/design/9dIdvouNWSo3Nmcp4gGwzY/Hero-template?node-id=0-1&t=BdiSiEjmadG6oWx8-0)
+- Frontend
 
-- https://mikrotik.com/products
-- https://citraweb.com
+  - Repo : [Networkstore Frontend Repository](https://github.com/sidiqcahyono83/networkstore-frontend)
+  - Deployment : [Networkstore frontend](https://networkstore.cahyonomuslimsidiq.com)
 
-## Features :
+- Backend
+  - Repo : [Networkstore Backend Repository](https://github.com/sidiqcahyono83/networkstore-backtend)
+  - Deployment : [Networkstore Backend API](https://networkstore-backend.cahyonomuslimsidiq.com)
 
-### Home Page
+## Inspirations
 
-- UI Desaing
-  ![image](./images/home.jpg)
-- Hero section
-  https://networstore.cahyonomuslimsidiq.com
+- Citraweb : [Citraweb](https://citraweb.com)
 
-- Products List Page
-  https://networstore.cahyonomuslimsidiq.com/products
-  ![image](./images/produtclist.png)
+## Features
+
+- Home page:
+
+  - Hero section
+  - Products cards section
+    - Product picture
+    - Product name
+    - Product price
+
+- All Products page
+
+  - Product card
+  - product picture
+  - product price
 
 - Detail product Page
-  - https://networstore.cahyonomuslimsidiq.com/products/{id}
-    ![image](./images/detail.png)
-  - images
+
   - SKU ( Stock Keeping Unit )
-  - product name
-  - price
+  - product name, price, picture
   - description
-  - add to cart form
+  - add to cart button
   - input quantity ( button add to cart )
 
 ### Shoping Cart Page
 
 - Cart produtcs item to buy
-- Image,
-- name,
-- price,
-- quantity,
-- quantity total ( price \* quantity)
+- product name, price, quantity, total
 - remove product item
-- Link to shopping : back to products catalogue
+- Continue shopping button
 - Link to checkout
 
 ### Checkout Page
 
-### order summary
+- Order summary
+  - Ordered product list
+  - Delivery option
+  - Payment option
+  - Order summary
+  - Create order button
 
-### Products items to buy
+### Login Page:
 
-- Buttons : Process to check out
+- Email
+- Password
+- Login Button
+- Register Button
+
+### Register Page:
+
+- Name
+- Email
+- Password
+- Address (optional)
+- Phone (optional)
